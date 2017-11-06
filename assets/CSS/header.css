@@ -1,0 +1,38 @@
+.header{
+	width: 100%;
+}
+
+.fonctions{
+	width: 50%;
+	float: left;
+}
+
+.menu_langues{
+	width: 50%;	
+}
+
+.langues li{
+	float: left;
+}
+.langues li a{
+	display: block;
+	text-decoration: none;
+}
+
+.langues{
+	list-style-type: none;
+	
+}
+
+.menu{
+	list-style-type: none;
+}
+
+header p img{
+	width: 20px;
+	padding-bottom: 0;
+}
+
+feader p{
+	padding-bottom: 2px;
+}

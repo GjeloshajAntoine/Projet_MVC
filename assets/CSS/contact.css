@@ -8,10 +8,20 @@
 }
 
 .info_bulle{
-  text-align: left;
+  text-align: center;
+  font-size: 18px;
+}
+
+.magasin{
+font-size: 26px;
+}
+.iti{
+  font-size: 26px;
 }
 
 .facebook{
-
-
+  font-size: 18px;
+}
+.map{
+  border: 5px solid black;
 }

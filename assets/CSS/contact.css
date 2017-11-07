@@ -1,4 +1,7 @@
-
+body {
+  background-color:#E8CC95;
+  font-family: 'Pontano Sans', sans-serif;
+}
 .main{
   width: 640px;
   height: 100vh;
@@ -9,19 +12,37 @@
 
 .info_bulle{
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .magasin{
-font-size: 26px;
+font-size: 24px;
 }
 .iti{
-  font-size: 26px;
+  font-size: 24px;
 }
 
 .facebook{
-  font-size: 18px;
+  font-size: 16px;
 }
-.map{
-  border: 5px solid black;
+.mail{
+  border: 2px solid black;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 4px;
+}
+h1, h2, h3{
+  text-transform:uppercase;
+
+}
+.face{
+  border: 2px solid blue;
+  color: white;
+  background-color: blue;
+  font-weight: bold;
+  padding: 4px;
+  border-radius: 5px;
+  text-decoration: none;
 }

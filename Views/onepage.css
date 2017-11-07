@@ -5,23 +5,25 @@ body{
   background-size: cover;
   background-position: center bottom;
 }
-.lang-menu{
-  overflow: auto;
+
+
+.buttons-liens a{
+  padding: 7px;
+  border-radius: 7px;
+  text-decoration:none;
+  color: black;
   background-color: #E8CC95;
-  padding: 10px;
 }
-.langues-container{
-  float: right;
-}
-.langues-buttons{
-  display: inline;
-  margin-right: 20px;
-}
-
 .welcome-section{
+  color: white;
+  text-align: center;
   height: 90vh;
-  border-bottom: 1px solid white;
-
+}
+.welcome-section h1{
+  font-size: 4em;
+}
+.welcome-section p{
+  font-size: 17px;
 }
 .center-box{
   margin:0 auto;
@@ -32,16 +34,17 @@ body{
 
 .citation-section{
   height: 100vh;
+  margin: 0 auto;
+  width: 32%;
+  text-align: center;
 }
 .citation-section h1,h3{
-  text-align: center;
-  color:white;
+  background-color: #0000005c;
+  /* text-align: center; */
+  color: white;
+  border-radius: 8px;
 }
-
-
-.footer{
-  background-color: black;
-  color:white;
-  text-align: center;
-  padding: 10px;
+.citation-section h3{
+  width: 25%;
+  margin: 0 auto;
 }

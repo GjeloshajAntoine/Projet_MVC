@@ -1,3 +1,7 @@
+body{
+  background-color: #E8CC95;
+  font-family: 'Pontano Sans', sans-serif;
+}
 #content{
   display: block;
   margin: 0 auto;
@@ -13,6 +17,7 @@
   margin-bottom: 50px;
 }
 #content p{
+  font-size: 1em;
   line-height: 1.6em
 }
 #content p span{

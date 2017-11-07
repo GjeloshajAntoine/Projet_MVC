@@ -1,38 +1,89 @@
-.header{
-	width: 100%;
+body{
+	background-color: #E8CC95;
 }
+
+header{
+	background-color: #635A5A; 
+	height: 124px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+
 
 .fonctions{
-	width: 50%;
-	float: left;
-}
-
-.menu_langues{
-	width: 50%;	
-}
-
-.langues li{
-	float: left;
-}
-.langues li a{
-	display: block;
-	text-decoration: none;
+	float:left;
 }
 
 .langues{
+	padding-top: 16px;
+	text-align: right;
+}
+
+.langues li{
+	display: inline;
+	background-color: black;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.langues li a{
 	list-style-type: none;
-	
+	text-decoration: none;
+	color: white;
+}
+
+.ligne2{
+	width: 100%;
+}
+
+.ligne2 .logo{
+	font-family: 'Tangerine', cursive;
+	width: 25%;
+	float: left;
+	font-size: 50px;
+	color: aliceblue;
+	margin: 0;
+}
+
+.ligne2 .menu_principal{
+	width: 50%;
+	float: left
+}
+
+.ligne2 p img{
+	width: 15px;
+}
+
+.contact_telephone{
+	width: 25%;
+	float: left;
+	text-align: right;
 }
 
 .menu{
+	margin: auto;
+}
+
+.menu li{
+	display: inline;
+	padding: 10px;
+	background-color: black;
+	border-radius: 5px;
+}
+
+.menu li a{
 	list-style-type: none;
+	text-decoration: none;
+	color: white;
 }
 
-header p img{
-	width: 20px;
-	padding-bottom: 0;
+.menu li:hover{
+	border: medium solid #D1B257;
+	/*padding: 2px;*/
 }
 
-feader p{
-	padding-bottom: 2px;
+.langues li:hover{
+	border: medium solid #D1B257;
+	/*padding: 2px;*/
 }

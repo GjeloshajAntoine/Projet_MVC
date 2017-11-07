@@ -1,0 +1,27 @@
+
+.main{
+  width: 640px;
+  height: 100vh;
+  margin: auto;
+  padding: 0;
+  text-align: center;
+}
+
+.info_bulle{
+  text-align: center;
+  font-size: 18px;
+}
+
+.magasin{
+font-size: 26px;
+}
+.iti{
+  font-size: 26px;
+}
+
+.facebook{
+  font-size: 18px;
+}
+.map{
+  border: 5px solid black;
+}

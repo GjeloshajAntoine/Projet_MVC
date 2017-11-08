@@ -1,10 +1,10 @@
 <?php
 
-class PresentationController{
+class ContactController{
 	public function __construct(){
 	}
 	public function run (){
-	require_once Views . 'presentation.php';
+	require_once Views . 'contact.php';
 	}
 }
 

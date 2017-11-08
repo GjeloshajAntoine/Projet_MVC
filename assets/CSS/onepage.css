@@ -1,0 +1,51 @@
+body{
+  margin:0;
+  background-image: url("https://didiermotte.be/wp-content/themes/didiermotte-2.1/library/images/NY_docks_o.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center bottom;
+}
+
+
+.buttons-liens a{
+  padding: 7px;
+  border-radius: 7px;
+  text-decoration:none;
+  color: #8e1f75;
+  background-color: #bd964aa3;
+  color:black;
+}
+.welcome-section{
+  color: white;
+  text-align: center;
+  height: 90vh;
+}
+.welcome-section h1{
+  font-size: 4em;
+}
+.welcome-section p{
+  font-size: 17px;
+}
+.center-box{
+  margin:0 auto;
+  width: 20%;
+  background-color: white;
+  margin-top: 20%;
+}
+
+.citation-section{
+  height: 100vh;
+  margin: 0 auto;
+  width: 32%;
+  text-align: center;
+}
+.citation-section h1,h3{
+  background-color: #0000005c;
+  /* text-align: center; */
+  color: white;
+  border-radius: 8px;
+}
+.citation-section h3{
+  width: 25%;
+  margin: 0 auto;
+}

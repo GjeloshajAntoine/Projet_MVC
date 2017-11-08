@@ -1,7 +1,7 @@
 
   <section id="content">
     <h1>Didier Motte</h1>
-    <img src="/home/user/becode/Projet_MVC/assets/img/imgdidier-grosplan-bw-o.png" alt="Didier Motte">
+    <img src="./Views/img/imgdidier-grosplan-bw-o.png" alt="Didier Motte">
     <h3>Les meubles ont une histoire, authentique.</h3>
     <p>Toujours à la recherche de l’extra-ordinaire, de l’insolite, fasciné par la « petite » histoire du monde, celle des métiers d’autrefois, Didier Motte fait partie de ces quelques connaisseurs, brocanteurs ou décorateurs qui, à travers leur regard et leur toucher, savent percevoir l’histoire des objets anciens pour leur donner une nouvelle légitimité esthétique et fonctionnelle.</p></br>
     <p><span>Je fais essentiellement des anciens meubles de commerce, des intérieurs complets de vieux magasins, bistrots, pharmacies… J’ai un entrepôt à Luttre, à Nivelles et à Haerelbeek . Si vous êtes dans le coin, vous pouvez venir jeter un coup d’oeil ( appelez-moi auparavant au 0495 205 934 ).  À bientôt! – Didier.</span></p></br>

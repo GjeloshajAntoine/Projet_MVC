@@ -1,31 +1,33 @@
 <?php
 define('Views', 'Views/');
-define('Views', 'Controllers/');
+define('CONTROLLER', 'Controllers/');
+
 require_once(Views . 'header.php');
+
 $action = isset($_GET['action']) ? htmlentities($_GET['action']) : 'default';
 $controller = '';
 switch ($action) {
-	case 'onepage':
+	case 'Onepage':
 		require_once(CONTROLLER . 'OnepageController.php');
-		$controller = new LoginController();
+		$controller = new OnepageController();
 		break;
-	case 'presentation':
+	case 'Presentation':
 		require_once(CONTROLLER . 'PresentationController.php');
-		$controller = new LogoutController();
+		$controller = new PresentationController();
 		break;
 	case 'Store':
 		require_once(CONTROLLER . 'StoreController.php');
-		$controller = new InventaireController();
+		$controller = new StoreController();
 		break;
 	case 'Contact':
 		require_once(CONTROLLER . 'ContactController.php');
-		$controller = new ListeLotController();
+		$controller = new ContactController();
 		break;
 
 
 	default:
 		require_once(CONTROLLER . 'OnepageController.php');
-		$controller = new LoginController();
+		$controller = new OnepageController();
 		break;
 }
 

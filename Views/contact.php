@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Contacts</title>
-    <link rel="stylesheet" style="text/css" href="../assets/css/contact.css">
-    <link href="https://fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet">
-  </head>
-  <body>
     <div class="main">
       <div class="magasin">
         <h1>Le magasin</h1>
@@ -30,5 +21,3 @@
           <input type="submit" name="" value="Itinéraire">
         </p>
     </div>
-  </body>
-</html>

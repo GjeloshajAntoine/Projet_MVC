@@ -1,4 +1,7 @@
 
+body{
+  margin: 0;
+}
 footer {
     background-color: #635A5A;
     padding: 50px;
@@ -6,8 +9,9 @@ footer {
 }
 
 
+
 footer p {
-    color: #888;
+    color: #FFF;
     text-align: center;
     margin-top: 20px;
 }

@@ -77,7 +77,10 @@ header{
 }
 
 .menu{
+	display: flex;
+	flex-direction: row;
 	margin: auto;
+	width: 350px;
 }
 
 .menu li{
@@ -85,20 +88,21 @@ header{
 	padding: 10px;
 	background-color: black;
 	border-radius: 5px;
+	margin-left: 5px;
 }
 
-.menu li a{
+.menu a{
 	list-style-type: none;
 	text-decoration: none;
 	color: white;
 }
 
 .menu li:hover{
-	border: medium solid #D1B257;
+	border: 2px solid #D1B257;
 	/*padding: 2px;*/
 }
 
 .langues li:hover{
-	border: medium solid #D1B257;
+	border: 2px solid #D1B257;
 	/*padding: 2px;*/
 }

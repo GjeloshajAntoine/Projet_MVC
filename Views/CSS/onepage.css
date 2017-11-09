@@ -15,10 +15,12 @@ body{
   background-color: #bd964aa3;
   color:black;
 }
+
 .welcome-section{
   color: white;
   text-align: center;
   height: 90vh;
+
 }
 .welcome-section h1{
   font-size: 4em;

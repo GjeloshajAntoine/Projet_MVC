@@ -1,12 +1,12 @@
 body{
 	background-color: #E8CC95;
+
 }
 
 header{
-	background-color: #635A5A; 
+	background-color: #635A5A;
 	height: 124px;
-	padding-left: 10px;
-	padding-right: 10px;
+	margin-top:-16px;
 	border-radius: 5px;
 }
 

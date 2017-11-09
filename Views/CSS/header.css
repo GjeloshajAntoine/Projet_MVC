@@ -33,8 +33,14 @@ header{
 	color: white;
 }
 
+.ligne1{
+	width:100%;
+	display: inline-block;
+}
+
 .ligne2{
 	width: 100%;
+	display: inline-block;
 }
 
 .ligne2 .logo{

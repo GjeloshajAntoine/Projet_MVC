@@ -30,12 +30,12 @@
 			</div>
 		</div>
 		<div class = "ligne2">
-			<h2 class ="logo">Didier Motte</h2>
+			<h2 class ="logo"><a href="index.php">Didier Motte</a></h2>
 			<div class = "menu_principal">
 				<ul class = "menu">
-					<li><a href="index.php?action=Presentation">DIDIER MOTTE</a></li>
-					<li><a href="index.php?action=Stock">IN STOCK</a></li>
-					<li><a href="index.php?action=Contact">CONTACT</a></li>
+					<a href="index.php?action=Presentation"><li>DIDIER MOTTE</li></a>
+					<a href="index.php?action=Stock"><li>IN STOCK</li></a>
+					<a href="index.php?action=Contact"><li>CONTACT</li></a>
 				</ul>
 			</div>
 			<div class = "contact_telephone">

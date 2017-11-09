@@ -52,6 +52,15 @@ header{
 	margin: 0;
 }
 
+.ligne2 .logo a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.ligne2 .logo a:hover{
+	color: #E8CC95;
+}
+
 .ligne2 .menu_principal{
 	width: 50%;
 	float: left

@@ -30,7 +30,7 @@
 			</div>
 		</div>
 		<div class = "ligne2">
-			<h2 class ="logo">Didier Motte</h2>
+			<h2 class ="logo"><a href="index.php">Didier Motte</a></h2>
 			<div class = "menu_principal">
 				<ul class = "menu">
 					<li><a href="index.php?action=Presentation">DIDIER MOTTE</a></li>

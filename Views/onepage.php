@@ -7,7 +7,7 @@
         <p>Antiquités • Décoration • Agencement</p>
         <div class="buttons-liens">
           <a href="index.php?action=Presentation" class="">Présentation</a>
-          <a href="index.php?action=Stock"class="">Le stock</a>
+          <a href="index.php?action=Store"class="">Le stock</a>
           <a href="index.php?action=Contact"class="">Contact</a>
         </div>
     </div>

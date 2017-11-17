@@ -6,6 +6,7 @@
 	<link rel="stylesheet" href="./Views/CSS/header.css">
 
 	<link rel="stylesheet" href="./Views/CSS/index.css">
+	<link rel="stylesheet" href="./Views/CSS/store.css">
 	<link rel="stylesheet" href="./Views/CSS/presentation.css">
 
 	<link rel="stylesheet" style="text/css" href="./Views/CSS/contact.css">
@@ -34,7 +35,7 @@
 			<div class = "menu_principal">
 				<ul class = "menu">
 					<li><a href="index.php?action=Presentation">DIDIER MOTTE</a></li>
-					<li><a href="index.php?action=Stock">IN STOCK</a></li>
+					<li><a href="index.php?action=Store">IN STOCK</a></li>
 					<li><a href="index.php?action=Contact">CONTACT</a></li>
 				</ul>
 			</div>
